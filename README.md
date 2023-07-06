@@ -2,6 +2,9 @@
 ## Description
 - This project focused on using JavaScript to provide a user with a password based off their preference of length, numbers, symbols, and lowercase and uppercase letters.
 - I was able to practice using functions and if statements to create the passwords.
+- Link to deployed application: https://devonforyou.github.io/password-generator/
+-  ![Deployed app picture](<assets/images/Screenshot (207).png>)
+
 
 
 ## Usage
